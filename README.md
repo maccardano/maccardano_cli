@@ -189,6 +189,9 @@ Choose option 2. Connect your Ledger, open Cardano app, press Enter. Confirm on 
 Each time you sign with Ledger the CLI re-reads the connected device — swap devices freely.
 
 **Tangem:**
+
+Download: https://github.com/maccardano/maccardano_android/releases/
+
 Choose option 3. A QR code appears in the terminal.
 Scan it with **Tangem Cardano Signer** on Android → sign with card tap → paste the returned JSON back.
 
